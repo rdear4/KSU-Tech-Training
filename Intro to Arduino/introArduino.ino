@@ -7,20 +7,22 @@ void setup() {
 
   pinMode(LEDPin, OUTPUT);
 
-  //pinMode(buttonPin, INPUT);
+  pinMode(buttonPin, INPUT);
   
 }
 
 void loop() {
+  
+  //Part 1 of the workshop
+  digitalWrite(LEDPin, HIGH);
 
-//   digitalWrite(LEDPin, HIGH);
-//
-//   delay(100);
-//
-//   digitalWrite(LEDPin, LOW);
-//
-//   delay(100);
+  delay(100);
 
+  digitalWrite(LEDPin, LOW);
+
+  delay(100);
+  
+  //Part 2 of the workshop
   if (digitalRead(buttonPin) == HIGH) {
 
     digitalWrite(LEDPin, HIGH);
@@ -30,22 +32,6 @@ void loop() {
     digitalWrite(LEDPin, LOW);
     
   }
-//
-//  for (int i = 0; i < 255; i++ ) {
-//
-//    analogWrite(LEDPin, i);
-//
-//    delay(10);
-//    
-//  }
-//
-//  for (int i = 255; i >= 0; i--) {
-//
-//    analogWrite(LEDPin, i);
-//
-//    delay(10);
-//    
-//  }
 
   
 }
