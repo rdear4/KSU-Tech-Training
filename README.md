@@ -8,7 +8,7 @@ This content convers the concepts and projects that were taught in the following
 3. Python for Raspberry Pi
 4. Introduction to Raspberry Pi
 
-### Workshops
+## Workshops
 ___
 
 #### Introduction to Arduino
