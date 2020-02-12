@@ -22,7 +22,7 @@ We will show the basics of input and output (I/O) on microcontrollers and make a
 
 Participants will learn how to turn an LED on and off with code alone, and then how it use a pushbutton switch to tell the Arduino when you want the LED to be on or off.
 
-####Intermediate Arduino
+#### Intermediate Arduino
 
 **Overview**
 
