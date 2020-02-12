@@ -28,13 +28,13 @@ Participants will learn how to turn an LED on and off with code alone, and then 
 
 `To do`
 
-####Python for Raspberry Pi
+#### Python for Raspberry Pi
 
 **Overview**
 
 `To do`
 
-####Introduction to Raspberry Pi
+#### Introduction to Raspberry Pi
 
 **Overview**
 
